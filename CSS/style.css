@@ -1,0 +1,15 @@
+.content {
+  width: 40%;
+  margin-top: 50px;
+}
+
+nav {
+  height: 45px;
+  display: flex;
+  align-content: center;
+}
+
+.cancel {
+  text-decoration: none;
+  color: white;
+}
